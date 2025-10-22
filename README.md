@@ -35,7 +35,7 @@ I'm Max, a professional **self-taughted** FullStack web developer.
 
 <p align="center"> 
   Visitor count <br>
-  <a href="https://github.com/0uki">
-    <img src="https://profile-counter.glitch.me/0uki/count.svg" />
+  <a href="https://github.com/0uki](https://github.com/Nirmatas">
+    <img src="https://profile-counter.glitch.me/Nirmatas/count.svg" />
   </a>
 </p>
