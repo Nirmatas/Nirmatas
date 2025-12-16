@@ -31,11 +31,3 @@ I'm Max, a professional **self-taughted** FullStack web developer.
 [![](https://img.shields.io/badge/-Sass-000?&logo=sass&logoColor=CC6699)]()
 [![](https://img.shields.io/badge/-Git-000?&logo=Git)]()
 [![](https://img.shields.io/badge/-Docker-000?&logo=Docker)]()
-
-
-<p align="center"> 
-  Visitor count <br>
-  <a href="[https://github.com/Nirmatas](https://github.com/Nirmatas)">
-    <img src="https://profile-counter.glitch.me/Nirmatas/count.svg" />
-  </a>
-</p>
